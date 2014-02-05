@@ -8,13 +8,16 @@ div.box, div.cell {
 }
 
 .cell input {
-	width: 30px;
-	height: 30px;
-	border: 2px solid 3F678F;
+	width: 40px;
+	height: 40px;
+	border: 3px solid 3F678F;
+	background-color: FAF9B1;
 }
 
 body {
 	text-align: center;
-	font-family: Arial;
+	font-family: fantasy;
 	text-decoration: underline;
+	background-color: CBCFD4;
 }
+CBCFD4
