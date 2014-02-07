@@ -2,6 +2,10 @@ require 'sinatra'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
 
+configure :prodution do
+	require 'newrelic_rpm'
+end
+
 enable :sessions
 
 def random_sudoku

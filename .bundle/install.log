@@ -11,3 +11,17 @@ I, [2014-02-07T10:06:03.886504 #24680]  INFO -- : 0:  shotgun (0.9) from /Users/
 I, [2014-02-07T10:06:03.887040 #24680]  INFO -- : 0:  tilt (1.4.1) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
 I, [2014-02-07T10:06:03.887660 #24680]  INFO -- : 0:  sinatra (1.4.4) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
 I, [2014-02-07T10:06:03.888280 #24680]  INFO -- : 0:  bundler (1.5.1) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-07T12:23:28.549251 #25006]  INFO -- : 0:  newrelic_rpm (3.7.2.192) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/newrelic_rpm-3.7.2.192.gemspec
+I, [2014-02-07T12:23:28.556265 #25006]  INFO -- : 0:  rack (1.5.2) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-07T12:23:28.556710 #25006]  INFO -- : 0:  rack-protection (1.5.2) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-07T12:23:28.557109 #25006]  INFO -- : 0:  shotgun (0.9) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/shotgun-0.9.gemspec
+I, [2014-02-07T12:23:28.558647 #25006]  INFO -- : 0:  tilt (1.4.1) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-07T12:23:28.559728 #25006]  INFO -- : 0:  sinatra (1.4.4) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-07T12:23:28.560156 #25006]  INFO -- : 0:  bundler (1.5.1) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-07T12:48:53.773246 #25103]  INFO -- : 0:  newrelic_rpm (3.7.2.192) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/newrelic_rpm-3.7.2.192.gemspec
+I, [2014-02-07T12:48:53.779165 #25103]  INFO -- : 0:  rack (1.5.2) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-07T12:48:53.779650 #25103]  INFO -- : 0:  rack-protection (1.5.2) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-07T12:48:53.780102 #25103]  INFO -- : 0:  shotgun (0.9) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/shotgun-0.9.gemspec
+I, [2014-02-07T12:48:53.780575 #25103]  INFO -- : 0:  tilt (1.4.1) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-07T12:48:53.781029 #25103]  INFO -- : 0:  sinatra (1.4.4) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-07T12:48:53.781453 #25103]  INFO -- : 0:  bundler (1.5.1) from /Users/nabin/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
